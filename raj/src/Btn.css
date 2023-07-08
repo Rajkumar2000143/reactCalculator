@@ -1,0 +1,37 @@
+button
+{
+    justify-content: inline-flex;
+    background-color:rgb(241, 50, 184);
+    height: 50px;
+    width: 50px;
+    /* background-image: url(); */
+}
+/* .raj{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+} */
+
+h1 ,h2{
+    background-color: aqua;
+    color: rgb(255, 0, 0);
+}
+table,tr,th,td{
+    border: 2px solid red;
+    border-collapse: collapse;
+    
+    
+}
+input{
+    background-color: rgb(170, 245, 20);
+    color :rgb(126, 9, 9);
+    height: 30px;
+    width:195px;
+}
+.a{ 
+    border:5px solid red;
+    width:200px ;
+    background-image:url(https://i.pinimg.com/originals/4a/2d/6e/4a2d6e05b76c45c683cac34886fa0f4c.jpg) ;
+    justify-content: center;
+    left: 500px;
+}
